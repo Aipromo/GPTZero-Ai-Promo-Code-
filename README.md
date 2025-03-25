@@ -3,8 +3,6 @@
 ## **🔍 Introduction: The Rise of AI-Generated Text**  
 With the explosion of AI tools like ChatGPT, Bard, and Claude, distinguishing human-written content from AI-generated text has become a major challenge. Enter **GPTZero**, an advanced AI detection tool designed to identify whether a piece of text was written by a human or an AI model.  
 
-(https://gptzero.me/?via=muhammad-bilal)
-
 In this deep dive, we’ll explore:  
 - What GPTZero is and how it works 🧠  
 - Why AI detection matters in education, publishing, and cybersecurity 🚨  
